@@ -1,1 +1,7 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x44caf72E420d17Fc140e91897Cb0889D4E2eFe95'
+quorum: 1
 # optimization
